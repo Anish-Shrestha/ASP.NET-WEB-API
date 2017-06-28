@@ -1,0 +1,372 @@
+D:\Employee.WebAPI\Employee.WebAPI\bin\ApplicationInsights.config
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\csc.exe
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\vbc.exe
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Employee.WebAPI\Employee.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.WebAPI.dll.config
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.WebAPI.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.WebAPI.pdb
+D:\Employee.WebAPI\Employee.WebAPI\bin\Antlr3.Runtime.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.Core.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.Service.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\EntityFramework.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.Web.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Newtonsoft.Json.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Owin.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Helpers.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Http.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Http.Owin.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Mvc.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Optimization.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Razor.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.WebPages.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\WebGrease.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.Data.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.Core.pdb
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.Service.pdb
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.Web.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Newtonsoft.Json.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Helpers.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Http.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Mvc.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Optimization.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Razor.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.WebPages.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Antlr3.Runtime.pdb
+D:\Employee.WebAPI\Employee.WebAPI\bin\EntityFramework.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Http.Owin.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Employee.Data.pdb
+D:\Employee.WebAPI\Employee.WebAPI\obj\Debug\Employee.WebAPI.csprojResolveAssemblyReference.cache
+D:\Employee.WebAPI\Employee.WebAPI\obj\Debug\Employee.WebAPI.dll
+D:\Employee.WebAPI\Employee.WebAPI\obj\Debug\Employee.WebAPI.pdb
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Cors.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Web.Cors.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Owin.Cors.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.StaticFiles.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Localization.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Options.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.WebEncoders.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Buffers.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.ComponentModel.Primitives.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Text.Encodings.Web.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.StaticFiles.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Localization.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Options.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Extensions.WebEncoders.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\System.Text.Encodings.Web.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\WebActivatorEx.dll
+D:\Employee.WebAPI\Employee.WebAPI\obj\Debug\Employee.WebAPI.Migrations.InitialCreate.resources
+D:\Employee.WebAPI\Employee.WebAPI\obj\Debug\Employee.WebAPI.csproj.GenerateResource.Cache
+D:\Employee.WebAPI\Employee.WebAPI\bin\FluentValidation.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\FluentValidation.pdb
+D:\Employee.WebAPI\Employee.WebAPI\bin\FluentValidation.xml
+D:\Employee.WebAPI\Employee.WebAPI\bin\de\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\es\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\fr\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\it\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\nl\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\pl\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\pt\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\ru\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\sv\FluentValidation.resources.dll
+D:\Employee.WebAPI\Employee.WebAPI\bin\tr\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\ApplicationInsights.config
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\csc.exe
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\vbc.exe
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.WebAPI.dll.config
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.WebAPI.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.WebAPI.pdb
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.Core.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.Service.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\EntityFramework.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\FluentValidation.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Localization.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Owin.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Buffers.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Cors.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Helpers.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Http.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Http.Owin.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Mvc.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Optimization.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Razor.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.WebPages.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\WebActivatorEx.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\WebGrease.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.Data.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.Core.pdb
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.Service.pdb
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\FluentValidation.pdb
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\FluentValidation.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Localization.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Helpers.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Http.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Mvc.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Optimization.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Razor.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.WebPages.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\EntityFramework.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\System.Web.Http.Owin.xml
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\Employee.Data.pdb
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\de\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\es\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\fr\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\it\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\nl\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\pl\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\pt\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\ru\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\sv\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\bin\tr\FluentValidation.resources.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.Migrations.InitialCreate.resources
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.csproj.GenerateResource.Cache
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.dll
+C:\Users\Anish-PC\Desktop\Token based Web API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.pdb

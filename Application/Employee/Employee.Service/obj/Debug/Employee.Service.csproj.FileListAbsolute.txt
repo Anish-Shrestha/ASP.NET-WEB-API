@@ -1,0 +1,11 @@
+D:\Employee.WebAPI\Employee.Service\bin\Debug\Employee.Service.dll
+D:\Employee.WebAPI\Employee.Service\bin\Debug\Employee.Service.pdb
+D:\Employee.WebAPI\Employee.Service\bin\Debug\Employee.Core.dll
+D:\Employee.WebAPI\Employee.Service\bin\Debug\Employee.Data.dll
+D:\Employee.WebAPI\Employee.Service\bin\Debug\EntityFramework.dll
+D:\Employee.WebAPI\Employee.Service\bin\Debug\Employee.Core.pdb
+D:\Employee.WebAPI\Employee.Service\bin\Debug\Employee.Data.pdb
+D:\Employee.WebAPI\Employee.Service\bin\Debug\EntityFramework.xml
+D:\Employee.WebAPI\Employee.Service\obj\Debug\Employee.Service.csprojResolveAssemblyReference.cache
+D:\Employee.WebAPI\Employee.Service\obj\Debug\Employee.Service.dll
+D:\Employee.WebAPI\Employee.Service\obj\Debug\Employee.Service.pdb

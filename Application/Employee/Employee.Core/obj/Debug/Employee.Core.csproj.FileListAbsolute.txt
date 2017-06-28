@@ -1,0 +1,5 @@
+D:\Employee.WebAPI\Employee.Core\bin\Debug\Employee.Core.dll
+D:\Employee.WebAPI\Employee.Core\bin\Debug\Employee.Core.pdb
+D:\Employee.WebAPI\Employee.Core\obj\Debug\Employee.Core.csprojResolveAssemblyReference.cache
+D:\Employee.WebAPI\Employee.Core\obj\Debug\Employee.Core.dll
+D:\Employee.WebAPI\Employee.Core\obj\Debug\Employee.Core.pdb
