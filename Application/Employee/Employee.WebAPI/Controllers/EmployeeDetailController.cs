@@ -55,7 +55,7 @@ namespace Employee.WebAPI.Controllers
                 finalResult += detail.Value + "&";
             }
 
-            return finalResult.TrimEnd('&'); ;
+            return finalResult.TrimEnd('&');
         }
 
 
