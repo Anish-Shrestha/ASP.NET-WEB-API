@@ -1,6 +1,8 @@
 ﻿using Employee.Core.Models;
 using Employee.Service.Interfaces;
 using Employee.Service.Services;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,6 +39,24 @@ namespace Employee.WebAPI.Controllers
             return _iEmployeeDetailService.GetEmployee(id);
         }
 
+
+        [HttpGet]
+        [Authorize]
+        [Route("api/GetEmployeeDetailsParsed/{id}")]
+        public string GetEmployeeDetailParsed(int id)
+        {
+            var employee = JsonConvert.SerializeObject(_iEmployeeDetailService.GetEmployee(id));
+            var finalResult = string.Empty;
+
+            Dictionary<string, string> employeeDict = JsonConvert.DeserializeObject<Dictionary<string, string>>(employee);
+
+            foreach (var detail in employeeDict)
+            {
+                finalResult += detail.Value + "&";
+            }
+
+            return finalResult.TrimEnd('&'); ;
+        }
 
 
     }
