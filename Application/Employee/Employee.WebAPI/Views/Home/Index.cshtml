@@ -1,0 +1,75 @@
+﻿<div class="clearfix"></div>
+<div class="row">
+    <div class="col-md-offset-4 col-md-4">
+        <table class="table">
+            <thead>
+                <tr >
+                    <th colspan="2">
+                        User Login
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Username</td>
+                    <td>
+                        <input type="text" id="txtUsername" placeholder="Username" class="form-control" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+                    <td>
+                        <input type="password" id="txtPassword"
+                               placeholder="Password" class="form-control" />
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input id="btnLogin" class="btn btn-success pull-right" type="button"
+                               value="Login" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-md-4"></div>
+    <div class="clearfix"></div>
+    <div class="col-md-offset-6 col-md-6">
+        <div class="input-group">
+            <span class="input-group-addon" id="basic-addon3"> Access Token:</span>
+            <input type="text" class="form-control col-xs-6" aria-describedby="basic-addon3" id="accessCode" width="100%" />
+
+        </div>
+     
+    </div>
+   
+</div>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        if (sessionStorage.getItem('accessToken') != null) {
+            $("#accessCode").val(sessionStorage.getItem("accessToken"));
+        }
+            $('#btnLogin').click(function () {
+                $.ajax({
+                    url: '/token',
+                    method: 'POST',
+                    contentType: 'application/json',
+                    data: {
+                        username: $('#txtUsername').val(),
+                        password: $('#txtPassword').val(),
+                        grant_type: 'password'
+                    },
+                 
+                    success: function (response) {
+                        sessionStorage.setItem("accessToken", response.access_token);
+                        $("#accessCode").val(response.access_token);
+                   
+                    },
+                    error: function (jqXHR) {
+                        alert(JSON.parse(jqXHR.responseText).error_description);
+                    }
+                });
+            });
+        });
+</script>
