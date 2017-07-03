@@ -556,3 +556,7 @@ D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\obj\Debug
 D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.csproj.GenerateResource.Cache
 D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.dll
 D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\obj\Debug\Employee.WebAPI.pdb
+D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\bin\Ninject.dll
+D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\bin\Ninject.Web.Common.dll
+D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\bin\Ninject.xml
+D:\Git-Repository\ASP.NET-WEB-API\Application\Employee\Employee.WebAPI\bin\Ninject.Web.Common.xml
