@@ -64,6 +64,30 @@
                     success: function (response) {
                         sessionStorage.setItem("accessToken", response.access_token);
                         $("#accessCode").val(response.access_token);
+
+                        $.ajax({
+                            url: '/api/GetEmployeeDetailsParsed/1',
+                            method: 'GET',
+                            headers: {
+                                'Authorization': 'Bearer '
+                                    + response.access_token
+                            },
+                            success: function (data) {
+                                $("#txtUsername").val(data);
+                            },
+                            error: function (jQXHR) {
+                                // If status code is 401, access token expired, so
+                                // redirect the user to the login page
+                                if (jQXHR.status == "401") {
+                                    $('#errorModal').modal('show');
+                                }
+                                else {
+                                    $('#divErrorText').text(jqXHR.responseText);
+                                    $('#divError').show('fade');
+                                }
+                            }
+                        });
+
                    
                     },
                     error: function (jqXHR) {

@@ -21,6 +21,11 @@ namespace Employee.WebAPI.Controllers
             _iEmployeeDetailService = new EmployeeDetailService();
         }
 
+        public EmployeeDetailController(IEmployeeDetailService employeeDetailService)
+        {
+            _iEmployeeDetailService = employeeDetailService;
+        }
+
 
         [HttpGet]
         [Authorize]
